@@ -1,0 +1,27 @@
+Positive or Negative Number.
+Even or Odd Number.
+Sum of First N Natural Numbers.
+Sum of N natural Numbers.
+Sum of Numbers in a given range.
+Greatest of two Numbers.
+Greatest of the Three Numbers.
+Leap year or not.
+Prime Number.
+Prime Number within a given range.
+Sum of digits of a Number.
+Reverse of a Number.
+Palindrome Number.
+Armstrong Number.
+Armstrong Number in a given range.	
+Fibonacci Series upto nth term.
+Find the Nth Term of the Fibonacci Series.
+Factorial of a Number.
+Power of a Number.
+Factor of a Number.
+Finding Prime Factors of a Number.
+Strong Number.
+Perfact Number.
+Perfect Square.
+Automorphic Number.
+Harshad Number.
+Abundant Number.
